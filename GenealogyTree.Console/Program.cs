@@ -79,7 +79,7 @@ internal class Program
                         return;
 
                     default:
-                        Console.WriteLine("Invalid option. Please choose A, P, or Q.");
+                        Console.WriteLine("Invalid option. Please choose A, P, or Q. ");
                         break;
                 }
             }
