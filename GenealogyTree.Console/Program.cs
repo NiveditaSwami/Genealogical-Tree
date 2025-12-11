@@ -75,7 +75,7 @@ internal class Program
                         break;
 
                     case 'Q':
-                        Console.WriteLine("Goodbye!");
+                        Console.WriteLine("Goodbye! ");
                         return;
 
                     default:
